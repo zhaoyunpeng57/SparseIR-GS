@@ -17,7 +17,7 @@ Given 12 input training views, SparseIR-GS reconstructs the infrared scene and u
 <table>
   <tr>
     <td align="center">
-      <b>YDWG1</b><br>
+      <b>YDWG</b><br>
       <img src="Results/YDWG1_final_video.gif" width="300">
     </td>
     <td align="center">
@@ -32,7 +32,7 @@ Given 12 input training views, SparseIR-GS reconstructs the infrared scene and u
     </td>
     <td align="center">
       <b>YHJT</b><br>
-      <img src="Results/YHJT_final_video.gif" width="300">
+      <img src="Results/YHJT2_final_video.gif" width="300">
     </td>
   </tr>
 </table>
