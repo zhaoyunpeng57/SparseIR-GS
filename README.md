@@ -17,21 +17,21 @@ Each trajectory typically consists of more than 100 infrared images, and the com
   <tr>
     <td align="center">
       <b>YDWG1</b><br>
-      <img src="resulsts/YDWG1_final_video.gif" width="300">
+      <img src="Results/YDWG1_final_video.gif" width="300">
     </td>
     <td align="center">
       <b>JX158</b><br>
-      <img src="resulsts/JX158_final_video.gif" width="300">
+      <img src="Results/JX158_final_video.gif" width="300">
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>PT1</b><br>
-      <img src="resulsts/PT1_final_video.gif" width="300">
+      <img src="Results/PT1_final_video.gif" width="300">
     </td>
     <td align="center">
       <b>YHJT</b><br>
-      <img src="resulsts/YHJT_final_video.gif" width="300">
+      <img src="Results/YHJT_final_video.gif" width="300">
     </td>
   </tr>
 </table>
